@@ -1,4 +1,3 @@
-// screens/HomeScreen.js
 import React, { useEffect, useState } from 'react';
 import { View, FlatList, Text, StyleSheet, TouchableOpacity } from 'react-native';
 import { firebase } from '../firebase-config';
