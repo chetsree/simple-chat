@@ -1,4 +1,3 @@
-// screens/ProfileScreen.js
 import React, { useState } from 'react';
 import { View, TextInput, Button, StyleSheet } from 'react-native';
 import { firebase } from '../firebase-config';
